@@ -1,0 +1,28 @@
+.container{
+    display:flex;
+    border: 10px solid rgb(255, 255, 255);
+    height: 90vh;
+    gap: 50px;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: space-between;
+  
+}
+.item{
+    width: 200px;
+    height: 150px;
+    font-size: 4em;
+    text-align: center;
+    border-radius: 15px;
+    color: rgb(255, 255, 255);
+}
+#item1 {
+ background-color: rgb(68, 21, 107);
+    
+} 
+#item2 {
+     background-color:rgb(91, 48, 119);
+    }
+#item3{
+    background-color: rgb(173, 129, 214);
+}
